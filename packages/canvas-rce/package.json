@@ -158,7 +158,7 @@
     "nyc": "^13",
     "prettier": "^1.12.1",
     "proxyquire": "1.7.4",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "sinon": "^7",
     "skin-deep": "^1",
     "testcafe": "^1.1.3",
